@@ -1,0 +1,4 @@
+project: PROJECT
+target: easyws_fuzzer
+cmds:
+- cmd: /out/easyws_fuzzer
